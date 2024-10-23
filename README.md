@@ -1,2 +1,4 @@
-# ML_from_scratch
+# Machine Learning From Scratch
 Python implementations of some of the fundamental Machine Learning models and algorithms from scratch.
+
+## Algorithms Implemented
